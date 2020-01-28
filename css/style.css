@@ -1,0 +1,17 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+
+.test {
+  background-color: rgb(30, 201, 73);
+  color: white;
+  width: 300px;
+  height: 100px;
+  margin: 10px;
+  padding: 20px;
+}
+
+#id1 {
+  border: 5px solid red;
+}
